@@ -35,6 +35,13 @@ Download the dataset from Kaggle:
 
 ---
 
+### 📥 CleanDataset Access  
+
+Download the dataset from Kaggle:  
+<a href="https://github.com/dhavltharkaaar/FUTURE_DS_02/blob/main/telecom.csv">Dataset Link</a>  
+
+---
+
 ### 📊 Dashboard  
 
 View the interactive Tableau dashboard here:  
