@@ -1,6 +1,6 @@
 # FUTURE_DS_02
 
-# Business Sales Performance Analysis
+# Customer Retention & Churn Analysis
 
 ## Company Name: Future Intern
 
