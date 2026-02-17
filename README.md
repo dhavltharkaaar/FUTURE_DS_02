@@ -38,7 +38,7 @@ Download the dataset from Kaggle:
 ### 📊 Dashboard  
 
 View the interactive Tableau dashboard here:  
-<a href="https://public.tableau.com/app/profile/dhavltharkaar/viz/TelcoAnalysis_17713280446940/Analysis">Online Retail Store Analysis Dashboard</a>  
+<a href="https://public.tableau.com/app/profile/dhavltharkaar/viz/TelcoAnalysis_17713280446940/Analysis">Telco Customer Churn Analysis Dashboard</a>  
 
 ---
 
